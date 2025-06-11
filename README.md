@@ -10,9 +10,9 @@ Gacchan’s playful features and RP flavor are inspired by Neopets, the site tha
 - 🎲 **Gacha Pulls**: Spend "Kawaii Coins" to collect cards of varying rarities
 - 🗃️ **Inventory System**: View, filter, and organize your card collection
 - 🧠 **Custom Roles & Permissions**: Regular User and Gacha Admin for specific commands
-- 🎀 **Themed UX** – Cutesy responses and card art designed to match the RP aesthetic
-- 🛠️ **SQLite Backend** – Persistent storage for user data and inventory
-- 🚀 **Deployed with Railway** – Lightweight, fast deployment for hobby-tier servers
+- 🎀 **Themed UX**: Cutesy responses and card art designed to match the RP aesthetic
+- 🛠️ **SQLite Backend**: Persistent storage for user data and inventory
+- 🚀 **Deployed with Railway**: Lightweight, fast deployment for hobby-tier servers
 
 
 ## 🛠️ Admin Features
